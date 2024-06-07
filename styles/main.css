@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
 
 body {
-    background-color: #FFD1DC;
+    background-color: #b5eb78;
     /* Soft pink background */
 }
 
@@ -11,13 +11,13 @@ body {
 
 a {
     text-decoration: none;
-    color: #FF69B4;
+    color: #86af50;
     /* Brighter pink links */
     font-weight: 500;
 }
 
 a:hover {
-    color: #FF1493;
+    color: #85bd2b;
     /* Darker pink on hover */
     text-decoration: none;
 }
@@ -29,7 +29,7 @@ ul {
 hr {
     margin-top: 0px;
     margin-bottom: 5%;
-    border-color: #FF69B4;
+    border-color: #7dac33;
     /* Pink horizontal lines */
 }
 

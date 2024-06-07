@@ -10,29 +10,24 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "IMG_9188.jpg"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Zuzana Jerdonekova"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Zuzana Jerdonekova"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Junior Data Analyst
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "jerdonekovazuzana@email.com"
 SOCIAL_MEDIA = {
-    "OnlyFans": "https://onlyfans.com/chocho_work",
-    "LinkedIn": "https://www.linkedin.com/in/pavel-chocholous/",
+    "LinkedIn": "https://www.linkedin.com/in/zuzana-jrd/",
     "GitHub":
-    "https://github.com/pavel242242/digital-resume-template-streamlit",
-    "Twitter": "https://twitter.com/pavel242",
+    "https://github.com/Zucamel?tab=repositories",
+    "Medium": "https://medium.com/@jerdonekovazuzana",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores":
-    "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database":
-    "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar":
-    "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel":
-    "https://pythonandvba.com/mytoolbelt/",
+    "🏆 Becoming a junior data analyst: exploration of job postings in Ireland":
+    "https://medium.com/@jerdonekovazuzana/analysis-and-visualizations-of-job-postings-from-ireland-5f46024f5c8e",
+    "🏆 Bricks & Figures: Dive with Us into the LEGO World":
+    "https://medium.com/@jerdonekova-baluch/bricks-figures-db9c64852fad",
 }
 SECTIONS = {
     "Experience": "Exp",
