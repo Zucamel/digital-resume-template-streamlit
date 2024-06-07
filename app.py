@@ -78,10 +78,10 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 if my_radio == "Experience":
     # --- EXPERIENCE & QUALIFICATIONS ---
     st.write('\n')
-    st.subheader("Experience & Qulifications")
+    st.subheader("Experience & Qalifications")
     st.write("""
-    - ✔️ 7 Years expereince extracting actionable insights from data
-    - ✔️ Strong hands on experience and knowledge in Python and Excel
+    - ✔️ 6 Months data analyst internship
+    - ✔️ 300 hours during Czechitas Data Accademy
     - ✔️ Good understanding of statistical principles and their respective applications
     - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
     """)
@@ -91,10 +91,11 @@ if my_radio == "Tech stack":
     st.write('\n')
     st.subheader("Hard Skills")
     st.write("""
-    - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-    - 📊 Data Visulization: PowerBi, MS Excel, Plotly
+    - 👩‍💻 Programming: SQL, Python
+    - 📊 Data Visulization: Tableau
+    - 🗄️ Databases: Snowflake, MySQL
     - 📚 Modeling: Logistic regression, linear regression, decition trees
-    - 🗄️ Databases: Postgres, MongoDB, MySQL
+    - :speech_balloon: Team Tools: Slack, Jira, Confluence
     """)
 
 if my_radio == "Career history":
@@ -104,12 +105,12 @@ if my_radio == "Career history":
     st.write("---")
 
     # --- JOB 1
-    st.write("🚧", "**Senior Data Analyst | Ross Industries**")
-    st.write("02/2020 - Present")
+    st.write("🚧", "**Junior Data Analyst | GAMEE**")
+    st.write("02/2024 - Present")
     st.write("""
-    - ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-    - ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-    - ► Redesigned data model through iterations that improved predictions by 12%
+    - ► #Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+    - ► #Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
+    - ► #Redesigned data model through iterations that improved predictions by 12%
     """)
 
     # --- JOB 2
